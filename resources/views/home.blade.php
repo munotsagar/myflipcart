@@ -9,6 +9,8 @@
 
                 <div class="panel-body">
                     You are logged in!
+                    <a href="{{ url('/flipcart') }}">Click Here for Flicart Products</a>
+
                 </div>
             </div>
         </div>
